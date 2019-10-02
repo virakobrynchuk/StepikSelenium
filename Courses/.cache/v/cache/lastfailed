@@ -1,3 +1,10 @@
 {
-  "test_abs_project.py": true
+  "123.py": true, 
+  "step_123.py::TestReg::test_reg2": true, 
+  "test_123.py::TestReg::test_reg2": true, 
+  "test_abs.py::test_abs2": true, 
+  "test_abs_project.py": true, 
+  "test_fixture.py": true, 
+  "test_fixture2.py": true, 
+  "test_fixture3.py": true
 }
